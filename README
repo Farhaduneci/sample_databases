@@ -1,0 +1,9 @@
+Sample Database Files
+=====================
+
+Here you find sample database files you can use to learn SQL.
+You may also have a look at https://8weeksqlchallenge.com
+
+To import the files into MySQL, use this command:
+
+> mysql -u root -p simple_shop < simple_shop.sql
